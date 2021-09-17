@@ -82,15 +82,30 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               const Text(
                 'Formação',
+                style: TextStyle(
+                  fontSize: 30.0,
+                ),
               ),
               const Text(
-                'Ensino Medio Completo          Escola Estadual de Ponte Firme',
+                '',
               ),
               const Text(
-                'Sistemas de Informação         Unipam-Centro Universitário de Patos de Minas',
+                '',
               ),
               const Text(
-                '                               Cursando',
+                'Ensino Medio Completo                Escola Estadual de Ponte Firme',
+              ),
+              const Text(
+                'Sistemas de Informação               Unipam-Centro Universitário de Patos de Minas',
+              ),
+              const Text(
+                '                                     Cursando',
+              ),
+              const Text(
+                '',
+              ),
+              const Text(
+                '',
               ),
               const Text(
                 '',
@@ -100,12 +115,27 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               const Text(
                 'Experiência',
+                style: TextStyle(
+                  fontSize: 30.0,
+                ),
               ),
               const Text(
-                'Agente Comunitário de Saúde    Prefeitura Presidente Olegário',
+                '',
               ),
               const Text(
-                '                               2012 - Atual',
+                '',
+              ),
+              const Text(
+                'Agente Comunitário de Saúde          Prefeitura Presidente Olegário',
+              ),
+              const Text(
+                '                                     2012 - Atual',
+              ),
+              const Text(
+                '',
+              ),
+              const Text(
+                '',
               ),
               const Text(
                 '',
@@ -115,96 +145,24 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               const Text(
                 'Linguagem',
+                style: TextStyle(
+                  fontSize: 30.0,
+                ),
               ),
               const Text(
-                'Inglês                         Nível Intermediário',
+                '',
+              ),
+              const Text(
+                '',
+              ),
+              const Text(
+                'Inglês                                Nível Intermediário',
               ),
               const Text(
                 '',
               ),
               const Text(
                 '',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
-              ),
-              const Text(
-                'Rua Professor Alfredo Batista, 672',
               ),
             ],
           ),
